@@ -1,0 +1,3 @@
+PIP INSTALL wintoast10
+
+no need to install time module as it is installed by default ;
